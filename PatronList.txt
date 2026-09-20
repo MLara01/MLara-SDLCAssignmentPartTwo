@@ -1,0 +1,7 @@
+PatronList
+
+0708094-Eurydice Burroughs-123 Cyril Street-0.00
+8008167-Luso Venase-456 Salkiawood Lane-245.69
+2002011-Morrigyn Lyndis-789 Sprohm Way-150.35
+0000005-Athena Astrum-402 Orbonne Lane-10.25
+3478910-Nathiel Gordon-182 Blink Way-67.21
